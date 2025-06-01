@@ -32,29 +32,32 @@ A web application built with ASP.NET Core MVC for managing a ski shop with full 
 *FRONTEND*
 
 Home:
-![image](https://github.com/user-attachments/assets/314f4380-90ba-4c8e-9568-3df762af1ccd)
-![image](https://github.com/user-attachments/assets/b742915d-f7bd-4031-9f4a-b675c341065d)
-![image](https://github.com/user-attachments/assets/e6692fe5-6070-4cb3-994f-166e6f66aef3)
+![image](https://github.com/user-attachments/assets/48c0a6f3-f025-4be7-abde-2674b246aa58)
+![image](https://github.com/user-attachments/assets/64fd6f59-0bac-43f9-b5fa-b2ddf2aafb22)
+![image](https://github.com/user-attachments/assets/b6f50f84-3f7b-41a5-850d-1115fed6d919)
+
 
 Products:
-![image](https://github.com/user-attachments/assets/d0d03649-7295-42bf-8543-cbc2663fd499)
+![image](https://github.com/user-attachments/assets/d88e5edf-f648-4bf5-a99b-1abae5d0ebef)
 
 Details about products:
-![image](https://github.com/user-attachments/assets/746c53f1-f92d-444c-8623-633efaea3421)
+![image](https://github.com/user-attachments/assets/87d57eec-4081-4190-8e9a-ad8bba00ba19)
 
 Cart:
-![image](https://github.com/user-attachments/assets/5d0b3a35-6f2c-44ea-b6ae-21e75965f3d4)
+![image](https://github.com/user-attachments/assets/15cb2747-8009-4d82-8220-d8364bfa2e7e)
 
 Profile:
-![image](https://github.com/user-attachments/assets/b46f7ece-ff9b-49bb-b184-6593986a65fa)
+![image](https://github.com/user-attachments/assets/f5f58c27-cf78-4223-9029-5c952a48dc25)
+
 
 Employee panel:
-![image](https://github.com/user-attachments/assets/317de536-34d7-4c1b-bcc2-61d2e26d00a5)
+![image](https://github.com/user-attachments/assets/6d172176-cf2a-46d8-b92d-7f2e8450649f)
 
 Admin panel:
-![image](https://github.com/user-attachments/assets/774df392-c6e6-481d-8b3f-05e80cd23320)
-![image](https://github.com/user-attachments/assets/08b08bb2-03e3-482c-a44e-c2e0fdb666c1)
-![image](https://github.com/user-attachments/assets/f072dfa4-e66a-4fcb-ab32-d6ff0df2e515)
+![image](https://github.com/user-attachments/assets/98798144-aff2-40c1-93fb-031c7b2b7a00)
+![image](https://github.com/user-attachments/assets/6f1a418e-ed99-4f00-8796-01bf5db8f35a)
+![image](https://github.com/user-attachments/assets/f8e043c4-5bd5-4376-9418-96dac958d25b)
+
 
 
 
