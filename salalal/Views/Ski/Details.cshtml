@@ -1,0 +1,22 @@
+﻿@model salalal.Models.Ski
+
+<div class="ski-details-container">
+    <div class="ski-image">
+        <img src="@Url.Content(Model.ImagePath)" alt="Ski Image">
+    </div>
+
+    <div class="ski-info">
+        <h2>@Model.Name</h2>
+        <p><strong>Model:</strong> @Model.Model</p>
+        <p><strong>Price:</strong> <span class="text-primary fw-bold">$@Model.Price</span></p>
+
+        <span class="ski-stock @(Model.StockQuantity > 5 ? "in-stock" : Model.StockQuantity > 0 ? "low-stock" : "out-of-stock")">
+            @(Model.StockQuantity > 5 ? "In Stock" : Model.StockQuantity > 0 ? "Low Stock" : "Out of Stock")
+        </span>
+
+        <div class="ski-buttons">
+            <a href="/Cart/AddToCart/@Model.Id" class="btn btn-primary">Add to Cart</a>
+            <a href="/Ski/Index" class="btn btn-secondary">Back to Shop</a>
+        </div>
+    </div>
+</div>
