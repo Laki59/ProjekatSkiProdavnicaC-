@@ -50,13 +50,6 @@ namespace salalal.Migrations
                 name: "Status",
                 table: "Orders");
 
-            migrationBuilder.AddColumn<int>(
-                name: "SkiId1",
-                table: "OrderItems",
-                type: "int",
-                nullable: true);
-
-
         }
     }
 }
