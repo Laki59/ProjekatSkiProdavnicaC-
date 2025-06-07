@@ -1,4 +1,5 @@
-﻿using salalal.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using salalal.Models;
 
 public class OrderItem
 {
@@ -16,5 +17,6 @@ public class OrderItem
     public Ski Ski { get; set; } 
 
     public int Quantity { get; set; }
+    [Precision(18, 2)]
     public decimal Price { get; set; }
 }
