@@ -98,7 +98,6 @@ public class AccountController : Controller
         {
             UserName = user.Username,
             Role = user.Role,
-            Password = user.Password,
             Orders = (List<Order>)orders
         };
 

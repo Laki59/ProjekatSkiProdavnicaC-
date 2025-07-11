@@ -11,8 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //Database setup
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("Server=DESKTOP-3BURIQ0\\MSSQLSERVER01;Database=projekatSkije;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"));
-
+    options.UseSqlServer("Server=DESKTOP-3BURIQ0\\MSSQLSERVER01;Database=dasdsa;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"));
 //Autentifikacija setup
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
